@@ -4,9 +4,9 @@
   "author": "Sharlottes",
   "description": "the watcher mod for MLog(Mindustry Logic) programming. while watching the target file's change, the mod will read, parse and inject code to selected processor from the target file.",
   "subtitle": "the MLog watcher mod",
-  "version": "0.3v",
+  "version": "0.3p",
   "main": "mlogwatcher.MlogWatcher",
-  "minGameVersion": "146",
+  "minGameVersion": "150.1",
   "dependencies": [],
   "hidden": true,
   "java": true
